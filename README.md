@@ -102,4 +102,4 @@ I value **quiet reliability over hype**, and **engineering discipline over trend
 ---
 
 📍 Based in Sweden / India 
-🔗 LinkedIn: https://github.com/khajamoddin  · 📧 Email : khaja.hclinsys@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/khajamoddin/  · 📧 Email : khaja.hclinsys@gmail.com
