@@ -1,7 +1,7 @@
 # Khajamoddin Shaik
 
 #### Senior Systems Architect & AI Infrastructure Engineer
-**Available for End-to-End AI Solution Architecture & GCP Implementations**
+**Available for End-to-End AI Solution Architecture & GCP, Azure Implementations**
 
 ![Rust](https://img.shields.io/badge/Use-Rust-black?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Use-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
